@@ -6,3 +6,4 @@ Datasets de la competencia:
 - -store-states.csv
 - test.csv-> con las variables para predecir y realizar el submission
 - train.csv-> para entrenar el modelo
+- -weather -> más data para un mejor entrenamiento
